@@ -1,0 +1,8 @@
+name: Testplugin
+version: '${project.version}'
+main: io.github.stupidgame.testplugin.Testplugin
+api-version: 1.16
+depend: [MythicMobs]
+commands:
+  test:
+
